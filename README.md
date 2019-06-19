@@ -14,7 +14,7 @@ The purpose of this project is to verify whether a given data set follows the di
 
 ## Contributing
 
-<p align="justify">Please read [CONTRIBUTING.md](https://github.com/DavidCico/Benfords-law-with-JAVA/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.</p>
+Please read [CONTRIBUTING.md](https://github.com/DavidCico/Benfords-law-with-JAVA/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
