@@ -10,7 +10,7 @@ The purpose of this project is to verify whether a given data set follows the di
 ## Project Structure
 
 ## Note
-<p align="justify">One of the best visualization effort for this law can be found at [Testing Benford's Law](http://testingbenfordslaw.com/)</p>
+One of the best visualization effort for this law can be found at [Testing Benford's Law](http://testingbenfordslaw.com/)
 
 ## Contributing
 
