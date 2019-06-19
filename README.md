@@ -18,7 +18,7 @@ The purpose of this project is to verify whether a given data set follows the di
 
 ## Versioning
 
-<p align="justify">We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).</p>
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
