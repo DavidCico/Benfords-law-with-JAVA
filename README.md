@@ -24,4 +24,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 **David Cicoria** - *Initial work* - [DavidCico](https://github.com/DavidCico)
 
-<p align="justify">See also the list of [contributors](https://github.com/DavidCico/Benfords-law-with-JAVA/graphs/contributors) who participated in this project.</p>
+See also the list of [contributors](https://github.com/DavidCico/Benfords-law-with-JAVA/graphs/contributors) who participated in this project.
