@@ -9,6 +9,15 @@ The purpose of this project is to verify whether a given data set follows the di
 
 ## Project Structure
 
+<ul>
+  <li><div align="justify"><em>Benford.java</em> where the different methods are implemented for obtaining the data, and calculating the number of occurrence of first digits by reading a String line.</div></li>
+  <li><div align="justify"><em>Driver.java</em> (main) to run the program with choice of data handling by the user and, finally will print a graph for the first digits occurrence (1 to 9), that can be compared with Benford's law.</div></li>
+  <li><div align="justify"><em>AAPL.csv</em> with the daily adjusted returns of "Apple" stocks for 5 years.</div></li>
+  <li><div align="justify"><em>household_power_consumption.csv</em> with individual household electric power consumption
+    from UCI repository.</div></li>
+</ul>
+  
+
 ## Note
 One of the best visualization effort for this law can be found at [Testing Benford's Law](http://testingbenfordslaw.com/)
 
