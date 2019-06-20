@@ -9,6 +9,8 @@ The purpose of this project is to verify whether a given data set follows the di
 
 ## Project Structure
 
+The project contains 4 files:
+
 <ul>
   <li><div align="justify"><em>Benford.java</em> where the different methods are implemented for obtaining the data, and calculating the number of occurrence of first digits by reading a String line.</div></li>
   <li><div align="justify"><em>Driver.java</em> (main) to run the program with choice of data handling by the user and, finally will print a graph for the first digits occurrence (1 to 9), that can be compared with Benford's law.</div></li>
@@ -17,6 +19,7 @@ The purpose of this project is to verify whether a given data set follows the di
     from UCI repository.</div></li>
 </ul>
   
+<div align="justify">Data can be obtained by reading a CSV file, or generated randomly following a uniform or Gaussian distribution (for checking). CSV reading has been chosen as it is one of the most common ways to get and read data. Data is then stored into a HashMap<String,String> structure to be treated.</div>
 
 ## Note
 One of the best visualization effort for this law can be found at [Testing Benford's Law](http://testingbenfordslaw.com/)
