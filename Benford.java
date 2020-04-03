@@ -26,7 +26,7 @@ public class Benford {
 
 		BufferedReader br = null;
 		String strCurrentLine;
-		Map<String, String> dataMap = new HashMap<String, String>();
+		Map<String, String> dataMap = new HashMap<>();
 
 		// open file with buffered reader
 		try {
@@ -107,12 +107,12 @@ public class Benford {
 				String str = Double.toString(number);
 				strArrayValues[i] = str;
 			}
-			else if (distribution == "Gaussian"){
+			else if (distribution == "Gaussian") {
 				double number = rand.nextGaussian();
 				String str = Double.toString(number);
 				strArrayValues[i] = str;
 			}
-			else{
+			else {
 				System.out.println("Distribution is not implemented");
 				System.exit(0);
 			}
@@ -138,7 +138,7 @@ public class Benford {
 					"ArrayLists must be of same size");
 		}
 
-		Map<String, String> dataMap = new HashMap<String, String>();
+		Map<String, String> dataMap = new HashMap<>();
 
 		// iterators to iterate at same time on both lists
 		Iterator<String> it1 = datesList.iterator();

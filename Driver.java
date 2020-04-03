@@ -34,15 +34,17 @@ public class Driver {
 		
 		int choice = sc.nextInt();
 		
-		if(choice == 1){
+		if (choice == 1) {
 			dataMap = Benford.ConvertCSVtoDataMap(filename);
 		}
-		else if(choice == 2){
+		else if (choice == 2) {
 			dataMap = Benford.createRandomDataMap(startDate, endDate, "Uniform");
 		}
-		else{
+		else {
 			dataMap = Benford.createRandomDataMap(startDate, endDate, "Gaussian");
 		}
+
+		sc.close();
 
 		//Benford.printDataMap(dataMap);
 
